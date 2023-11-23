@@ -799,31 +799,31 @@
 
 .carousel__slide:nth-of-type(1),
 .carousel--thumb .carousel__indicators .carousel__indicator:nth-of-type(1) {
-  background-image: url("images/gallery1.JPG");
+  background-image: url("https://res.cloudinary.com/dqnhksjp6/image/upload/v1700756208/gallery6_pp4m1h.jpg");
   background-size: cover;
   background-position: center;
 }
 .carousel__slide:nth-of-type(2),
 .carousel--thumb .carousel__indicators .carousel__indicator:nth-of-type(2) {
-  background-image: url("images/gallery2.JPG");
+  background-image: url("https://res.cloudinary.com/dqnhksjp6/image/upload/v1700756206/gallery2_wsvsek.jpg");
   background-size: cover;
   background-position: center;
 }
 .carousel__slide:nth-of-type(3),
 .carousel--thumb .carousel__indicators .carousel__indicator:nth-of-type(3) {
-  background-image: url("images/gallery3.JPG");
+  background-image: url("https://res.cloudinary.com/dqnhksjp6/image/upload/v1700756212/gallery3_yj3ozv.jpg");
   background-size: cover;
   background-position: center;
 }
 .carousel__slide:nth-of-type(4),
 .carousel--thumb .carousel__indicators .carousel__indicator:nth-of-type(4) {
-  background-image: url("images/gallery4.JPG");
+  background-image: url("https://res.cloudinary.com/dqnhksjp6/image/upload/v1700756211/gallery4_nzc4zg.jpg");
   background-size: cover;
   background-position: center;
 }
 .carousel__slide:nth-of-type(5),
 .carousel--thumb .carousel__indicators .carousel__indicator:nth-of-type(5) {
-  background-image: url("images/gallery6.JPG");
+  background-image: url("https://res.cloudinary.com/dqnhksjp6/image/upload/v1700756208/gallery6_pp4m1h.jpg");
   background-size: cover;
   background-position: center;
 }
